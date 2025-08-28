@@ -1,0 +1,2 @@
+# fridosen
+autoreplay
